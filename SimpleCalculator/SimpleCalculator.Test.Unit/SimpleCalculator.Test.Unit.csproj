@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{72313200-F73E-471A-BA57-09C645269A8B}</ProjectGuid>
+    <ProjectGuid>{3FBE1ABD-A869-4BD4-B4E0-0529D20E5A82}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SimpleCalculator.Text.Unit</RootNamespace>
-    <AssemblyName>SimpleCalculator.Text.Unit</AssemblyName>
+    <RootNamespace>SimpleCalculator.Test.Unit</RootNamespace>
+    <AssemblyName>SimpleCalculator.Test.Unit</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
