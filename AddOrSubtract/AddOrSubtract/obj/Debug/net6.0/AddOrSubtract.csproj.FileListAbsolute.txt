@@ -1,0 +1,15 @@
+C:\Users\jennn\OneDrive\바탕 화면\git\Csharp_study\AddOrSubtract\AddOrSubtract\bin\Debug\net6.0\AddOrSubtract.exe
+C:\Users\jennn\OneDrive\바탕 화면\git\Csharp_study\AddOrSubtract\AddOrSubtract\bin\Debug\net6.0\AddOrSubtract.deps.json
+C:\Users\jennn\OneDrive\바탕 화면\git\Csharp_study\AddOrSubtract\AddOrSubtract\bin\Debug\net6.0\AddOrSubtract.runtimeconfig.json
+C:\Users\jennn\OneDrive\바탕 화면\git\Csharp_study\AddOrSubtract\AddOrSubtract\bin\Debug\net6.0\AddOrSubtract.dll
+C:\Users\jennn\OneDrive\바탕 화면\git\Csharp_study\AddOrSubtract\AddOrSubtract\bin\Debug\net6.0\AddOrSubtract.pdb
+C:\Users\jennn\OneDrive\바탕 화면\git\Csharp_study\AddOrSubtract\AddOrSubtract\obj\Debug\net6.0\AddOrSubtract.csproj.AssemblyReference.cache
+C:\Users\jennn\OneDrive\바탕 화면\git\Csharp_study\AddOrSubtract\AddOrSubtract\obj\Debug\net6.0\AddOrSubtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jennn\OneDrive\바탕 화면\git\Csharp_study\AddOrSubtract\AddOrSubtract\obj\Debug\net6.0\AddOrSubtract.AssemblyInfoInputs.cache
+C:\Users\jennn\OneDrive\바탕 화면\git\Csharp_study\AddOrSubtract\AddOrSubtract\obj\Debug\net6.0\AddOrSubtract.AssemblyInfo.cs
+C:\Users\jennn\OneDrive\바탕 화면\git\Csharp_study\AddOrSubtract\AddOrSubtract\obj\Debug\net6.0\AddOrSubtract.csproj.CoreCompileInputs.cache
+C:\Users\jennn\OneDrive\바탕 화면\git\Csharp_study\AddOrSubtract\AddOrSubtract\obj\Debug\net6.0\AddOrSubtract.dll
+C:\Users\jennn\OneDrive\바탕 화면\git\Csharp_study\AddOrSubtract\AddOrSubtract\obj\Debug\net6.0\refint\AddOrSubtract.dll
+C:\Users\jennn\OneDrive\바탕 화면\git\Csharp_study\AddOrSubtract\AddOrSubtract\obj\Debug\net6.0\AddOrSubtract.pdb
+C:\Users\jennn\OneDrive\바탕 화면\git\Csharp_study\AddOrSubtract\AddOrSubtract\obj\Debug\net6.0\AddOrSubtract.genruntimeconfig.cache
+C:\Users\jennn\OneDrive\바탕 화면\git\Csharp_study\AddOrSubtract\AddOrSubtract\obj\Debug\net6.0\ref\AddOrSubtract.dll
