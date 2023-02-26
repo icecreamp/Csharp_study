@@ -1,0 +1,17 @@
+C:\Users\jennn\OneDrive\바탕 화면\QAMidterm\PROG2070W2023\TemperatureConverterTest\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\jennn\OneDrive\바탕 화면\QAMidterm\PROG2070W2023\TemperatureConverterTest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\jennn\OneDrive\바탕 화면\QAMidterm\PROG2070W2023\TemperatureConverterTest\bin\Debug\nunit.engine.dll
+C:\Users\jennn\OneDrive\바탕 화면\QAMidterm\PROG2070W2023\TemperatureConverterTest\bin\Debug\nunit.engine.api.dll
+C:\Users\jennn\OneDrive\바탕 화면\QAMidterm\PROG2070W2023\TemperatureConverterTest\bin\Debug\nunit.engine.core.dll
+C:\Users\jennn\OneDrive\바탕 화면\QAMidterm\PROG2070W2023\TemperatureConverterTest\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\jennn\OneDrive\바탕 화면\QAMidterm\PROG2070W2023\TemperatureConverterTest\bin\Debug\TemperatureConverterTest.dll
+C:\Users\jennn\OneDrive\바탕 화면\QAMidterm\PROG2070W2023\TemperatureConverterTest\bin\Debug\TemperatureConverterTest.pdb
+C:\Users\jennn\OneDrive\바탕 화면\QAMidterm\PROG2070W2023\TemperatureConverterTest\bin\Debug\nunit.framework.dll
+C:\Users\jennn\OneDrive\바탕 화면\QAMidterm\PROG2070W2023\TemperatureConverterTest\bin\Debug\PROG2070W2023.dll
+C:\Users\jennn\OneDrive\바탕 화면\QAMidterm\PROG2070W2023\TemperatureConverterTest\bin\Debug\PROG2070W2023.pdb
+C:\Users\jennn\OneDrive\바탕 화면\QAMidterm\PROG2070W2023\TemperatureConverterTest\bin\Debug\nunit.framework.xml
+C:\Users\jennn\OneDrive\바탕 화면\QAMidterm\PROG2070W2023\TemperatureConverterTest\obj\Debug\TemperatureConverterTest.csproj.AssemblyReference.cache
+C:\Users\jennn\OneDrive\바탕 화면\QAMidterm\PROG2070W2023\TemperatureConverterTest\obj\Debug\TemperatureConverterTest.csproj.CoreCompileInputs.cache
+C:\Users\jennn\OneDrive\바탕 화면\QAMidterm\PROG2070W2023\TemperatureConverterTest\obj\Debug\TemperatureConverterTest.csproj.CopyComplete
+C:\Users\jennn\OneDrive\바탕 화면\QAMidterm\PROG2070W2023\TemperatureConverterTest\obj\Debug\TemperatureConverterTest.dll
+C:\Users\jennn\OneDrive\바탕 화면\QAMidterm\PROG2070W2023\TemperatureConverterTest\obj\Debug\TemperatureConverterTest.pdb
